@@ -11,7 +11,7 @@ follow the command
 open new terminal  follow command 
 
 
-   ping www.cmrphones.42web.io  
+   ping www.cmrphone.42web.io  
    
    
 you i will ip example : 199.59.243.223
